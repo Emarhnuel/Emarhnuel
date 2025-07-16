@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🤖 AI Engineer passionate about advancing the field of artificial intelligence<br><br>🔬 Focused on:<br>- Large Language Models (LLMs)<br>- Retrieval-Augmented Generation (RAG)<br>- AI Agent Development & Automation<br>- Fine-tuning & LLMOps<br>- AgentOps<br><br>🛠️ Exploring agent frameworks like LangChain, langGraph, CrewAI and LLamaindex<br><br>Always learning, building, and pushing the boundaries of AI technology.
+<br>🤖 AI Engineer passionate about advancing the field of artificial intelligence<br><br>🔬 Focused on:<br>- Large Language Models (LLMs)<br>- Retrieval-Augmented Generation (RAG)<br>- AI Agent Development & Automation<br>- Fine-tuning & LLMOps<br>- AI agent monitoring and evaluation<br><br>🛠️ Exploring agent frameworks like LangChain, langGraph, CrewAI and LLamaindex<br><br>Always learning, building, and pushing the boundaries of AI technology.
 
 
 ## 🌐 Socials:
