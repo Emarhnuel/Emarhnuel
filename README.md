@@ -23,7 +23,9 @@ Not demos. Orchestration, durable state, eval gates, and human-in-the-loop on an
 
 ### GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Emarhnuel&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Emarhnuel&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Emarhnuel&theme=github_dark) ![](https://streak-stats.demolab.com/?user=Emarhnuel&theme=github-dark-blue)
 
 
 ---
