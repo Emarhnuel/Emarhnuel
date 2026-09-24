@@ -15,7 +15,7 @@ Not demos. Orchestration, durable state, eval gates, and human-in-the-loop on an
 
 ### Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emma-ezeokeke) [![Website](https://img.shields.io/badge/Website-emmaeze.tech-%23000000.svg?logo=safari&logoColor=white)](https://emmaeze.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emma-ezeokeke)
 
 ### Tech Stack
 
